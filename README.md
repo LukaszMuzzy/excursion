@@ -17,4 +17,5 @@ In addition I had to use Git and GitHub
 
 ## Status
 
-Page is finished and uploded to GitHub.
+Page is finished and uploded to GitHub Pages. 
+link: https://lukaszmuzzy.github.io/excursion/
